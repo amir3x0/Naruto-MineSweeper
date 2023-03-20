@@ -1,8 +1,7 @@
-בתרגיל שולה המוקשים:
-הוספתי 3 קטעי קול : אחד שמייצג מוזיקת רקע עם כפתורי הפעלה וכיבוי.
-ו-2 שתי קטעי קול נוספים שמופעלים בעת לחיצה על הוספת דגל או הפסד.
-יש טקטס מתחלף שמביא תגובות בהתאם לפעולות והלחיצות שמלווה בתמונות מתחלפות.
-בנוסף לכך הוספתי רקע לכל החלון, ולכל כפתור בטבלת שולה המוקשים החלפתי את העיצוב לסמל.
-יש תמונה של עיגול שחור אדום שמייצג דגל.
-המספרים מיוצגים בספרות יפניות , יש כפתור סימן שאלה שמראה על מדריך עבור הסמלים שכולל תוכו את המספרים מ1-8 משמאל לימין
-הסרט ראש מייצג מיקום ללא פצצות באיזור , הקונאי עם הפתק מייצג פצצה.
+This Java-based Minesweeper game is designed with an exciting Naruto theme, featuring elements from the anime series. Players will enjoy the classic Minesweeper gameplay with a fresh twist that is sure to appeal to Naruto fans.
+
+The game is designed with a user-friendly interface that is easy to navigate, allowing players to jump right into the action. The objective is to clear the board of hidden mines without detonating any of them. Players can use their strategic thinking skills to deduce where the mines are hidden based on the numbers that appear in each square.
+
+With a range of difficulty levels to choose from, this game offers a challenge for players of all skill levels. The Naruto theme adds a fun and unique twist to the traditional Minesweeper gameplay, making it an engaging experience that is sure to keep players entertained.
+
+Whether you're a Minesweeper enthusiast or a Naruto fan looking for a new gaming experience, this Minesweeper project is sure to be a hit. Give it a try and see how quickly you can clear the board while avoiding the hidden mines!
